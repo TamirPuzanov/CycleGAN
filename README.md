@@ -2,4 +2,6 @@
 
 Pytorch реализация кросс-доменного переноса стиля без соответствующих пар
 
-<center>![none](/imgs/image.png)</center>
+<p align="center">
+  <img src="https://github.com/tamirpuzanov/CycleGAN/blob/master/imgs/image.png?raw=true" alt="err"/>
+</p>
